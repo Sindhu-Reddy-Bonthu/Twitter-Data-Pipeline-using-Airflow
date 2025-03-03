@@ -28,7 +28,7 @@ Ensure you have the following installed:
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/PrajwalaMugajjiShambulingappa/TwitterDataPipelineUsingAirflow.git
+   git clone https://github.com/Sindhu-Reddy-Bonthu/Twitter-Data-Pipeline-using-Airflow.git
    cd TwitterDataPipelineUsingAirflow
    ```
 2. Set up the virtual environment:
